@@ -180,3 +180,14 @@ Everything runs on your own server. No data is sent anywhere else.
 ## Credits
 
 Inspired by [oxEdit](https://github.com/Arius-Scripts/oxedit) by Arius-Scripts (for ox_inventory). This is an independent reimplementation targeting the VORP framework with direct database access.
+
+## Screenshots
+
+### Items
+![Items-Editor](screenshots/items.png)
+
+### Weapons
+![Weapons mit Live-Lua-Preview](screenshots/weapons.png)
+
+### Images
+![Bild-Verwaltung mit Optimierer](screenshots/images.png)

@@ -185,6 +185,7 @@ Inspired by [oxEdit](https://github.com/Arius-Scripts/oxedit) by Arius-Scripts (
 
 ### Items
 ![Items-Editor](screenshots/items.png)
+![Items-Editor](screenshots/items1.png)
 
 ### Weapons
 ![Weapons mit Live-Lua-Preview](screenshots/weapons.png)

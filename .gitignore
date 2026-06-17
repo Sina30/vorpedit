@@ -1,0 +1,11 @@
+# Echte Zugangsdaten nie committen!
+config.php
+
+# Backups die das Tool anlegt
+*.bak
+api/*.bak
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp

@@ -188,7 +188,11 @@ Inspired by [oxEdit](https://github.com/Arius-Scripts/oxedit) by Arius-Scripts (
 ![Items-Editor](screenshots/items1.png)
 
 ### Weapons
+
 ![Weapons mit Live-Lua-Preview](screenshots/weapons.png)
 
 ### Images
 ![Bild-Verwaltung mit Optimierer](screenshots/images.png)
+
+
+Inspired by oxEdit by @Arius-Scripts (for ox_inventory). This is an independent reimplementation targeting the VORP framework with direct database access.
